@@ -1,6 +1,5 @@
 
 asyncio
-json
 pymongo
 requests
 tgcrypto
