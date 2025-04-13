@@ -1,9 +1,7 @@
 
-pkg_resources
 os
 asyncio
 json
-pkg_resources
 pymongo
 requests
 tgcrypto
