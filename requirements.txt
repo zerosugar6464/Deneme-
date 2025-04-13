@@ -1,4 +1,5 @@
 aiohttp
+resources
 apscheduler
 cinemagoer
 cloudscraper
