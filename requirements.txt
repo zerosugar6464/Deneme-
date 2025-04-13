@@ -9,6 +9,7 @@ emoji==1.7.0
 fonttools
 geopy
 gitpython
+telebot
 glitch_this
 google-api-python-client
 google-auth-httplib2
