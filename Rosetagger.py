@@ -92,7 +92,7 @@ except:
   print("Eksik Pip Bulundu. Yükleniyor...")
   os.system("pip install deep-translator --break-system-packages")
 os.system('cls' if os.name == 'nt' else 'clear') 
-
+LOG_GROUP_ID = "-1002349741708"
 OWNER_ID = "7525624006"
 API_ID = "20824282"
 API_HASH = "5c49d99b5bb9e41c9b8ada4f826989ef" 
