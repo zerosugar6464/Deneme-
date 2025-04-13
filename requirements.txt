@@ -1,4 +1,6 @@
 aiohttp
+telebot
+AsyncTeleBot
 resources
 apscheduler
 cinemagoer
