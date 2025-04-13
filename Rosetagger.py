@@ -98,7 +98,7 @@ API_ID = "20824282"
 API_HASH = "5c49d99b5bb9e41c9b8ada4f826989ef" 
 BOT_TOKEN = "7336757348:AAGW8yt7dNW50odjiUDNhrKtQ32zSMbC2tM"
 client = TelegramClient('Silataggerbot', API_ID, API_HASH)
-bot = AsyncTeleBot(7336757348:AAGW8yt7dNW50odjiUDNhrKtQ32zSMbC2tM)
+bot = AsyncTeleBot(BOT_TOKEN)
 
 SUBSCRIPTIONS_FILE = "subscriptions.json"
 if os.path.exists(SUBSCRIPTIONS_FILE):
