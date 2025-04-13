@@ -1,4 +1,4 @@
-
+pkg_resources==0.27.2
 asyncio
 pymongo
 requests
