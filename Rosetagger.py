@@ -57,7 +57,7 @@ import random
 from telethon.tl.types import DocumentAttributeFilename
 import sys
 import subprocess
-import pkg_resources
+import resources
 import time
 import os
 import asyncio
