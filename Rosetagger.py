@@ -13,7 +13,7 @@ import random
 from telethon.tl.types import DocumentAttributeFilename
 import sys
 import subprocess
-import pkg_resources
+import resources
 import time
 import os
 import asyncio
@@ -30,7 +30,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 from telethon.tl.types import DocumentAttributeFilename
 import sys
 import subprocess
-import pkg_resources
+import resources
 import time
 from collections import defaultdict
 from telethon import TelegramClient, events, Button
@@ -74,7 +74,7 @@ from telethon.tl.types import ChannelParticipantsAdmins
 from telethon.tl.types import DocumentAttributeFilename
 import sys
 import subprocess
-import pkg_resources
+import resources
 import time
 from youtube_dl import YoutubeDL
 from googletrans import Translator
