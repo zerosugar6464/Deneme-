@@ -1,1 +1,1 @@
-bot: python3 RoseTagger.py
+bot: python3 Rosetagger.py
