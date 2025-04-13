@@ -93,10 +93,10 @@ except:
   os.system("pip install deep-translator --break-system-packages")
 os.system('cls' if os.name == 'nt' else 'clear') 
 
-OWNER_ID = 7525624006 
-API_ID = 20824282
-API_HASH = 5c49d99b5bb9e41c9b8ada4f826989ef 
-BOT_TOKEN = 7336757348:AAGW8yt7dNW50odjiUDNhrKtQ32zSMbC2tM
+OWNER_ID = "7525624006"
+API_ID = "20824282"
+API_HASH = "5c49d99b5bb9e41c9b8ada4f826989ef" 
+BOT_TOKEN = "7336757348:AAGW8yt7dNW50odjiUDNhrKtQ32zSMbC2tM"
 client = TelegramClient('Silataggerbot', API_ID, API_HASH)
 bot = AsyncTeleBot(BOT_TOKEN)
 
